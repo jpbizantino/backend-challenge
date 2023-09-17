@@ -1,4 +1,7 @@
-# Full Stack JS - Code Challenge - V3
+<div align="center">
+  <h1>Full Stack JS - Code Challenge - V3</h1>
+  <p>Backend project crafted using Node, Express, Mocha/Chai for testing, Axios for HTTP requests, Winston for logging, DotEnv for environment configuration, and adhering to StandardJS coding standards.</p>  
+</div>
 
 ## Quick Start Guide
 
