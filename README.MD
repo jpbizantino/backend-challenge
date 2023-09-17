@@ -9,8 +9,8 @@
 - Run the following commands: 
 
     ``` 
-    docker build . -t backend-challange 
-    docker run --rm -d -p 3000:3000/tcp backend-challange:latest 
+    docker build . -t backend-challenge 
+    docker run --rm -d -p 3000:3000/tcp backend-challenge:latest 
     ```
 
 ### Executing project:
@@ -87,11 +87,11 @@ npm run v
 Open console on your project directory and run the following command
 
 ```
-docker build . -t backend-challange 
+docker build . -t backend-challenge 
 ```
 
 Execute the image
 
 ``` 
-docker run --rm -d -p 3000:3000/tcp backend-challange:latest 
+docker run --rm -d -p 3000:3000/tcp backend-challenge:latest 
 ```
